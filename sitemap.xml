@@ -47,6 +47,15 @@
   </url>
   
   <url>
+    <loc>https://sao-coding.github.io/2022/01/30/oj/leetcode/1.%20Two%20Sum/</loc>
+    
+    <lastmod>2022-02-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sao-coding.github.io/2022/02/01/oj/zerojudge/a001/</loc>
     
     <lastmod>2022-02-16</lastmod>
@@ -257,6 +266,13 @@
   </url>
   
   <url>
+    <loc>https://sao-coding.github.io/tags/LeetCode/</loc>
+    <lastmod>2022-02-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://sao-coding.github.io/tags/ZeroJudge/</loc>
     <lastmod>2022-02-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -267,6 +283,13 @@
   
   <url>
     <loc>https://sao-coding.github.io/categories/HEXO/</loc>
+    <lastmod>2022-02-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sao-coding.github.io/categories/LeetCode/</loc>
     <lastmod>2022-02-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
