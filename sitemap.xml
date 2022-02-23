@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://sao-coding.github.io/2022/02/23/oj/zerojudge/a148/</loc>
-    
-    <lastmod>2022-02-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sao-coding.github.io/2022/01/01/test/</loc>
     
     <lastmod>2022-02-23</lastmod>
@@ -84,6 +75,15 @@
   
   <url>
     <loc>https://sao-coding.github.io/Privacy-Policy/index.html</loc>
+    
+    <lastmod>2022-02-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sao-coding.github.io/2022/02/23/oj/zerojudge/a148/</loc>
     
     <lastmod>2022-02-23</lastmod>
     
