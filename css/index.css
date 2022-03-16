@@ -6680,6 +6680,51 @@ div #card-toc {
     background-color: #ffa600;
     color: white;
 }
+/* rightMenu */
+#rightMenu{
+	display: none;
+	position: fixed;
+	width: 8rem;
+	height: fit-content;
+	top: 10%;
+	left: 10%;
+	background-color: var(--global-bg);
+	box-shadow: var(--card-box-shadow);
+	border-radius: 8px;
+	z-index: 100;
+}
+#rightMenu .rightMenu-group{
+	padding: 0.35rem 0.3rem;
+}
+#rightMenu .rightMenu-group:not(:nth-last-child(1)){
+	border-bottom: 2px solid var(--font-color);
+}
+#rightMenu .rightMenu-group.rightMenu-small{
+	display: flex;
+	justify-content: space-between;
+}
+#rightMenu .rightMenu-group .rightMenu-item{
+	height: 1.5rem;
+	border-radius: 8px;
+	transition: 0.3s;
+}
+#rightMenu .rightMenu-group.rightMenu-line .rightMenu-item{
+	display: flex;
+}
+#rightMenu .rightMenu-group .rightMenu-item:hover{
+	background-color: var(--text-bg-hover);
+}
+#rightMenu .rightMenu-group .rightMenu-item i{
+	display: inline-block;
+	text-align: center;
+	line-height: 1.5rem;
+	width: 1.5rem;
+	height: 1.5rem;
+	padding: 0 0.25rem;
+}
+#rightMenu .rightMenu-group .rightMenu-item span{
+	line-height: 1.5rem;
+}
 /* 自定义twikoo评论输入框高度 */
 .tk-input[data-v-619b4c52] .el-textarea__inner {
   height: 130px !important;
