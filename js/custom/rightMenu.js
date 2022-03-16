@@ -99,5 +99,5 @@ if(! (navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mob
     };
 
     window.addEventListener('click',function(){kk.showRightMenu(false);});
-    window.addEventListener('load',function(){kk.switchTheme(true);});
+    // window.addEventListener('load',function(){kk.switchTheme(true);});
 }
