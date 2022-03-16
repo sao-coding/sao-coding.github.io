@@ -61,35 +61,43 @@ kk.switchTheme=function(load=false){
     $(document.head).find('[tag="theme"]')[0].href = themesrc;
 };
 
+//复制选中文字
+kk.copySelect = function(){
+    document.execCommand('Copy',false,null);
+    //这里可以写点东西提示一下 已复制
+}
 
-// 菜单的show/hide
-let rmWidth = $('#rightMenu').width();
-let rmHeight = $('#rightMenu').height();
-window.oncontextmenu = function(event){
-    let pageX = event.clientX + 10;	//加10是为了防止显示时鼠标遮在菜单上
-    let pageY = event.clientY;
-    
-    // 菜单默认显示在鼠标右下方，当鼠标靠右或靠下时，将菜单显示在鼠标左方\上方
-    if(pageX + rmWidth > window.innerWidth){
-        pageX -= rmWidth;
-    }
-    if(pageY + rmHeight > window.innerHeight){
-        pageY -= rmHeight;
-    }
-    
-    kk.showRightMenu(true, pageY, pageX);
-    return false;
-};
+//回到顶部
+kk.scrollToTop = function(){
+    btf.scrollToDest(0, 500);
+}
 
-window.addEventListener('click',function(){kk.showRightMenu(false);});	//隐藏菜单
+// 右键菜单事件
+if(! (navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))){
+    window.oncontextmenu = function(event){
+        $('.rightMenu-group.hide').hide();
+        if(document.getSelection().toString()){
+            $('#menu-text').show();
+        }
 
-//菜单功能绑定
-$('#menu-backward').on('click',function(){window.history.back();});
-$('#menu-forward').on('click',function(){window.history.forward();});
-$('#menu-refresh').on('click',function(){window.location.reload();});
-$('#menu-darkmode').on('click',kk.switchDarkMode);
-$('#menu-readmode').on('click',kk.switchReadMode);
-$('#menu-home').on('click',function(){window.location.href = window.location.origin;});
-$('#menu-themeChange').on('click',function(){kk.switchTheme();});
+        console.log(event.target);
+        let pageX = event.clientX + 10;
+        let pageY = event.clientY;
+        let rmWidth = $('#rightMenu').width();
+        let rmHeight = $('#rightMenu').height();
+        if(pageX + rmWidth > window.innerWidth){
+            pageX -= rmWidth+10;
+        }
+        if(pageY + rmHeight > window.innerHeight){
+            pageY -= pageY + rmHeight - window.innerHeight;
+        }
 
-window.addEventListener('load',function(){kk.switchTheme(true);});	//页面加载时，通过缓存加载主题
+
+
+        kk.showRightMenu(true, pageY, pageX);
+        return false;
+    };
+
+    window.addEventListener('click',function(){kk.showRightMenu(false);});
+    window.addEventListener('load',function(){kk.switchTheme(true);});
+}

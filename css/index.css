@@ -6689,7 +6689,7 @@ div #card-toc {
 	top: 10%;
 	left: 10%;
 	background-color: var(--global-bg);
-	box-shadow: var(--card-box-shadow);
+	box-shadow: 4px 4px 6px #0003;
 	border-radius: 8px;
 	z-index: 100;
 }
@@ -6697,7 +6697,7 @@ div #card-toc {
 	padding: 0.35rem 0.3rem;
 }
 #rightMenu .rightMenu-group:not(:nth-last-child(1)){
-	border-bottom: 2px solid var(--font-color);
+	border-bottom: 1px dashed var(--font-color);
 }
 #rightMenu .rightMenu-group.rightMenu-small{
 	display: flex;
@@ -6707,6 +6707,7 @@ div #card-toc {
 	height: 1.5rem;
 	border-radius: 8px;
 	transition: 0.3s;
+	color: var(--font-color);
 }
 #rightMenu .rightMenu-group.rightMenu-line .rightMenu-item{
 	display: flex;
@@ -6724,6 +6725,10 @@ div #card-toc {
 }
 #rightMenu .rightMenu-group .rightMenu-item span{
 	line-height: 1.5rem;
+}
+
+.rightMenu-group.hide{
+	display: none;
 }
 /* 自定义twikoo评论输入框高度 */
 .tk-input[data-v-619b4c52] .el-textarea__inner {
