@@ -2,33 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://sao-coding.github.io/pwa/manifest.json</loc>
-    
-    <lastmod>2022-04-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sao-coding.github.io/tags/index.html</loc>
-    
-    <lastmod>2022-04-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sao-coding.github.io/timeline/index.html</loc>
-    
-    <lastmod>2022-04-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sao-coding.github.io/post/test/</loc>
     
     <lastmod>2022-04-01</lastmod>
@@ -74,9 +47,45 @@
   </url>
   
   <url>
+    <loc>https://sao-coding.github.io/pwa/manifest.json</loc>
+    
+    <lastmod>2022-04-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sao-coding.github.io/tags/index.html</loc>
+    
+    <lastmod>2022-04-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sao-coding.github.io/timeline/index.html</loc>
+    
+    <lastmod>2022-04-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sao-coding.github.io/Privacy-Policy/index.html</loc>
     
     <lastmod>2022-04-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sao-coding.github.io/post/keyboard/keychron-k4v2-keyboard/</loc>
+    
+    <lastmod>2022-03-15</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -421,6 +430,13 @@
   </url>
   
   <url>
+    <loc>https://sao-coding.github.io/tags/%E6%A9%9F%E6%A2%B0%E5%BC%8F%E9%8D%B5%E7%9B%A4/</loc>
+    <lastmod>2022-04-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://sao-coding.github.io/tags/Python/</loc>
     <lastmod>2022-04-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -452,6 +468,13 @@
   
   <url>
     <loc>https://sao-coding.github.io/categories/HEXO/</loc>
+    <lastmod>2022-04-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sao-coding.github.io/categories/%E9%8D%B5%E7%9B%A4/</loc>
     <lastmod>2022-04-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
