@@ -6477,6 +6477,11 @@ div#category {
   font-display: swap;
 }
 @font-face {
+  font-family: 'SAOUI';
+  src: url("/fonts/SAOUI.ttf");
+  font-display: swap;
+}
+@font-face {
   font-family: 'sao-home-1';
   src: url("/fonts/ZhuZiAWan.ttf");
   font-display: swap;
