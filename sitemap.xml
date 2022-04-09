@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://sao-coding.github.io/post/test/</loc>
-    
-    <lastmod>2022-04-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sao-coding.github.io/backstage/index.html</loc>
     
     <lastmod>2022-04-09</lastmod>
@@ -57,6 +48,15 @@
   
   <url>
     <loc>https://sao-coding.github.io/timeline/index.html</loc>
+    
+    <lastmod>2022-04-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sao-coding.github.io/post/test/</loc>
     
     <lastmod>2022-04-09</lastmod>
     
