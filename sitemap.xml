@@ -101,6 +101,15 @@
   </url>
   
   <url>
+    <loc>https://sao-coding.github.io/post/takming-dormitory-about/</loc>
+    
+    <lastmod>2022-03-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sao-coding.github.io/post/tool/word-mdeditor/</loc>
     
     <lastmod>2022-03-28</lastmod>
@@ -502,6 +511,13 @@
   
   <url>
     <loc>https://sao-coding.github.io/categories/HEXO/</loc>
+    <lastmod>2022-05-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sao-coding.github.io/categories/%E5%AE%BF%E8%88%8D%E6%B4%BB%E5%8B%95/</loc>
     <lastmod>2022-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

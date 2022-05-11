@@ -6471,6 +6471,9 @@ div#category {
 .aside-list img {
   object-position: 50% 8%;
 }
+.img-wrap {
+  text-align: center;
+}
 @font-face {
   font-family: 'sao-home';
   src: url("/fonts/Mam.otf");
