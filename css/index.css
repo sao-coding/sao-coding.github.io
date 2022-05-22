@@ -1406,8 +1406,6 @@ input::placeholder {
   background: url(/img/index.webp);
   background-attachment: local;
   background-position: center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -3346,8 +3344,6 @@ h1.page-title + .tag-cloud-list {
   background: #fa6e52;
   background-attachment: scroll;
   background-position: bottom;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
   background-size: cover;
 }
 #footer:before {
@@ -3383,8 +3379,6 @@ h1.page-title + .tag-cloud-list {
   width: 100%;
   background-color: #fa6e52;
   background-position: center center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
   background-size: cover;
   background-repeat: no-repeat;
   -webkit-transition: all 0.5s;
@@ -3847,8 +3841,6 @@ h1.page-title + .tag-cloud-list {
 }
 #loading-box .SAO-wall {
   background: url("https://cdn.jsdelivr.net/gh/sao-coding/sao-blog-images@main/loading/linkstart.png");
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
   background-size: cover;
   width: 100%;
   height: 100%;
@@ -6245,14 +6237,10 @@ li.categoryBar-list-item {
   -webkit-box-shadow: rgba(50,50,50,0.3) 50px 50px 50px 50px inset;
   box-shadow: rgba(50,50,50,0.3) 50px 50px 50px 50px inset;
   overflow: hidden;
-  -webkit-background-size: 100% !important;
-  -moz-background-size: 100% !important;
   background-size: 100% !important;
   background-position: center !important;
 }
 li.categoryBar-list-item:hover {
-  -webkit-background-size: 110% !important;
-  -moz-background-size: 110% !important;
   background-size: 110% !important;
   -webkit-box-shadow: inset 500px 50px 50px 50px rgba(50,50,50,0.6);
   box-shadow: inset 500px 50px 50px 50px rgba(50,50,50,0.6);
