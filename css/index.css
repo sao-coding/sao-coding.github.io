@@ -6686,7 +6686,7 @@ div #card-toc {
 }
 /* 自定义twikoo评论输入框高度 */
 .tk-input[data-v-619b4c52] .el-textarea__inner {
-  height: 130px !important;
+  min-height: 140px !important;
 }
 /* 输入评论时自动隐藏输入框背景图片 */
 .tk-input[data-v-619b4c52] .el-textarea__inner:focus {
