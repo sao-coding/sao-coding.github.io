@@ -6689,9 +6689,9 @@ div #card-toc {
   min-height: 140px !important;
 }
 /* 输入评论时自动隐藏输入框背景图片 */
-.tk-input[data-v-619b4c52] .el-textarea__inner:focus {
+/* .tk-input[data-v-619b4c52] .el-textarea__inner:focus {
   background-image: none !important;
-}
+} */
 /* 调整楼中楼样式 ，整体左移，贴合气泡化效果 */
 .tk-replies {
   left: -70px;
