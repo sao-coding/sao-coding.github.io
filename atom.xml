@@ -942,6 +942,27 @@
   </entry>
   
   <entry>
+    <title>文章封面照片位置</title>
+    <link href="https://blog.sao-x.com/post/cover/"/>
+    <id>https://blog.sao-x.com/post/cover/</id>
+    <published>2022-01-30T13:33:31.000Z</published>
+    <updated>2022-01-30T13:33:31.000Z</updated>
+    
+    
+    <summary type="html">修改文章封面照片位置</summary>
+    
+    
+    
+    <category term="HEXO" scheme="https://blog.sao-x.com/categories/HEXO/"/>
+    
+    
+    <category term="HEXO" scheme="https://blog.sao-x.com/tags/HEXO/"/>
+    
+    <category term="🦋 Butterfly" scheme="https://blog.sao-x.com/tags/%F0%9F%A6%8B-Butterfly/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Pixiv 日榜小工具</title>
     <link href="https://blog.sao-x.com/post/pixiv/"/>
     <id>https://blog.sao-x.com/post/pixiv/</id>

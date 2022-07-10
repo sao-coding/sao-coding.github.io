@@ -6586,7 +6586,7 @@ div #card-toc {
     overflow: hidden;
     width: 230px;
     height: 143px;
-    background: var(--card-bg);
+    /* background: var(--card-bg); */
     display: flex;
 }
 
