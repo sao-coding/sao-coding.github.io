@@ -333,19 +333,3 @@ document.getElementById('menu-download-image').onclick = function () { downloadI
 // document.getElementById('menu-darkmode').addEventListener('click', switchDarkMode )
 document.getElementById('menu-hideside').onclick = hideAsideBtn
 document.getElementById('menu-readmode').onclick = switchReadMode
-
-// 明暗模式切换统计图
-// document.getElementById('menu-darkmode').addEventListener('click', function () { setTimeout(switchVisitChart, 100) })
-// document.getElementById('menu-darkmode').addEventListener('click', function () { setTimeout(switchPostChart, 100) })
-document.getElementById('mode-button').addEventListener('click', function () { setTimeout(switchVisitChart, 100) })
-document.getElementById('mode-button').addEventListener('click', function () { setTimeout(switchPostChart, 100) })
-document.getElementById('darkmode').addEventListener('click', function () { setTimeout(switchVisitChart, 100) })
-document.getElementById('darkmode').addEventListener('click', function () { setTimeout(switchPostChart, 100) })
-
-// 顶部菜单按钮
-document.getElementById('mode-button').addEventListener('click', switchDarkMode)
-document.getElementById('top-button').onclick = scrollToTop
-document.getElementById('page-name-text').onclick = scrollToTop
-if (document.getElementById('post-url-copy')) document.getElementById('post-url-copy').onclick = function () { copyFn(document.getElementById('post-url').text) }
-document.querySelector('#menu-readmode>span').innerHTML = document.body.classList.contains('read-mode') ? '退出阅读' : '阅读模式'
-document.querySelector('#menu-hideside>span').innerHTML = document.documentElement.classList.contains('hide-aside') ? '显示侧栏' : '隐藏侧栏'
