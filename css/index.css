@@ -6696,6 +6696,7 @@ div #card-toc {
 	--cover-bg: #49B1F5;
   --card-border: #f5cb87;
   --card-border-hover: #fc9c00;
+  --border-radius: 8px;
 }
 [data-theme="dark"] {
 	--main: #5C5C5C  !important;
