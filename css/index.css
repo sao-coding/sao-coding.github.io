@@ -6711,7 +6711,7 @@ div #card-toc {
 }
 
 .OwO.OwO-open .OwO-body {
-  border-radius: var(--border-radius);
+  border-radius: 8px;
 }
 
 .OwO .OwO-body .OwO-bar .OwO-packages li {
@@ -6749,7 +6749,7 @@ div #card-toc {
 
 .tk-content :not(pre)>code[class*="language-"],
 .tk-content pre[class*="language-"] {
-  border-radius: var(--border-radius);
+  border-radius: 8px;
 }
 
 .tk-nick,
@@ -6825,10 +6825,10 @@ div #card-toc {
 
 /* 评论块气泡化修改 */
 .tk-comments-container>.tk-comment {
-  border: var(--card-border);
+  border: #f5cb87;
   border-width: 2px;
   border-style: dashed;
-  border-radius: var(--border-radius);
+  border-radius: 8px;
   padding: 0 .5rem .5rem .5rem;
   -webkit-transition: all .3s;
   -moz-transition: all .3s;
@@ -6839,7 +6839,7 @@ div #card-toc {
 }
 
 .tk-comments-container>.tk-comment:hover {
-  border-color: var(--main);
+  border-color: #fc9c00;
 }
 
 .tk-content {
@@ -6847,7 +6847,7 @@ div #card-toc {
   background: var(--main);
   padding: .5rem 1rem;
   margin-top: 0 !important;
-  border-radius: var(--border-radius);
+  border-radius: 8px;
   font-size: 95% !important;
   width: fit-content;
   max-width: 80%;
@@ -6916,7 +6916,7 @@ div #card-toc {
   width: 40% !important;
   margin: .5rem auto 0;
   background: var(--global-bg) !important;
-  border-radius: var(--border-radius);
+  border-radius: 8px;
 }
 
 .tk-expand:hover {
