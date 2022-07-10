@@ -2,42 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.sao-x.com/backstage/index.html</loc>
-    
-    <lastmod>2022-07-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.sao-x.com/categories/index.html</loc>
-    
-    <lastmod>2022-07-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.sao-x.com/fcircle/index.html</loc>
-    
-    <lastmod>2022-07-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.sao-x.com/link/index.html</loc>
-    
-    <lastmod>2022-07-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.sao-x.com/pwa/manifest.json</loc>
     
     <lastmod>2022-07-10</lastmod>
@@ -65,7 +29,34 @@
   </url>
   
   <url>
-    <loc>https://blog.sao-x.com/README</loc>
+    <loc>https://blog.sao-x.com/categories/index.html</loc>
+    
+    <lastmod>2022-07-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sao-x.com/fcircle/index.html</loc>
+    
+    <lastmod>2022-07-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sao-x.com/backstage/index.html</loc>
+    
+    <lastmod>2022-07-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sao-x.com/link/index.html</loc>
     
     <lastmod>2022-07-10</lastmod>
     
