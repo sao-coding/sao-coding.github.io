@@ -6687,6 +6687,22 @@ div #card-toc {
 .rightMenu-group.hide{
 	display: none;
 }
+:root {
+	--main: #ffb08a;
+	--second: #FFF;
+	--main-light: rgba(73, 177, 245, 0.4);
+	--main-shadow: 0 2px 3px 1px rgba(73, 177, 245, 0.2);
+	--cover-text: #EEE;
+	--cover-bg: #49B1F5;
+  --card-border: #f5cb87;
+  --card-border-hover: #fc9c00;
+}
+[data-theme="dark"] {
+	--main: #5C5C5C  !important;
+	--second: #EEE  !important;
+	--main-light: rgba(92, 92, 92, 0.4)  !important;
+	--main-shadow: 0 2px 3px 1px rgba(92, 92, 92, 0.2)  !important;
+}
 /* Twikoo */
 .comment-head {
   position: relative;
@@ -6702,7 +6718,7 @@ div #card-toc {
 }
 
 .el-textarea__inner {
-  min-height: 140px !important;
+  min-height: 100px !important;
 }
 
 .OwO .OwO-body {
@@ -6711,7 +6727,7 @@ div #card-toc {
 }
 
 .OwO.OwO-open .OwO-body {
-  border-radius: 8px;
+  border-radius: var(--border-radius);
 }
 
 .OwO .OwO-body .OwO-bar .OwO-packages li {
@@ -6749,7 +6765,7 @@ div #card-toc {
 
 .tk-content :not(pre)>code[class*="language-"],
 .tk-content pre[class*="language-"] {
-  border-radius: 8px;
+  border-radius: var(--border-radius);
 }
 
 .tk-nick,
@@ -6825,10 +6841,10 @@ div #card-toc {
 
 /* 评论块气泡化修改 */
 .tk-comments-container>.tk-comment {
-  border: #f5cb87;
+  border: var(--card-border);
   border-width: 2px;
   border-style: dashed;
-  border-radius: 8px;
+  border-radius: var(--border-radius);
   padding: 0 .5rem .5rem .5rem;
   -webkit-transition: all .3s;
   -moz-transition: all .3s;
@@ -6839,7 +6855,7 @@ div #card-toc {
 }
 
 .tk-comments-container>.tk-comment:hover {
-  border-color: #fc9c00;
+  border-color: var(--card-border-hover);
 }
 
 .tk-content {
@@ -6847,7 +6863,7 @@ div #card-toc {
   background: var(--main);
   padding: .5rem 1rem;
   margin-top: 0 !important;
-  border-radius: 8px;
+  border-radius: var(--border-radius);
   font-size: 95% !important;
   width: fit-content;
   max-width: 80%;
@@ -6916,7 +6932,7 @@ div #card-toc {
   width: 40% !important;
   margin: .5rem auto 0;
   background: var(--global-bg) !important;
-  border-radius: 8px;
+  border-radius: var(--border-radius);
 }
 
 .tk-expand:hover {
