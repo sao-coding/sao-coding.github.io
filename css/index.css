@@ -6827,7 +6827,7 @@ div #card-toc {
     position: absolute;
     padding: 1rem;
     width: 100%;
-    overflow: scroll;
+    overflow: auto;
 }
 
 #body-wrap.error404 .aside-list .aside-list-group {
