@@ -6621,6 +6621,52 @@ details.folding-tag {
 [data-theme="dark"] details.folding-tag {
   background: rgba(35,35,35,0.5) !important;
 }
+.rainbow {
+  color: transparent;
+  -webkit-animation: rainbow 1.5s linear infinite;
+  -moz-animation: rainbow 1.5s linear infinite;
+  -o-animation: rainbow 1.5s linear infinite;
+  -ms-animation: rainbow 1.5s linear infinite;
+  animation: rainbow 1.5s linear infinite;
+  background-image: -webkit-linear-gradient(left top, #f00, #ff4500, #ffa500, #ffd700, #90ee90, #0ff, #1e90ff, #9370db, #ff69b4, #ff4500);
+  background-image: -moz-linear-gradient(left top, #f00, #ff4500, #ffa500, #ffd700, #90ee90, #0ff, #1e90ff, #9370db, #ff69b4, #ff4500);
+  background-image: -o-linear-gradient(left top, #f00, #ff4500, #ffa500, #ffd700, #90ee90, #0ff, #1e90ff, #9370db, #ff69b4, #ff4500);
+  background-image: -ms-linear-gradient(left top, #f00, #ff4500, #ffa500, #ffd700, #90ee90, #0ff, #1e90ff, #9370db, #ff69b4, #ff4500);
+  background-image: linear-gradient(to right bottom, #f00, #ff4500, #ffa500, #ffd700, #90ee90, #0ff, #1e90ff, #9370db, #ff69b4, #ff4500);
+  -webkit-background-clip: text;
+}
+@-moz-keyframes rainbow {
+  from {
+    filter: hue-rotate(0);
+  }
+  to {
+    filter: hue-rotate(-360deg);
+  }
+}
+@-webkit-keyframes rainbow {
+  from {
+    filter: hue-rotate(0);
+  }
+  to {
+    filter: hue-rotate(-360deg);
+  }
+}
+@-o-keyframes rainbow {
+  from {
+    filter: hue-rotate(0);
+  }
+  to {
+    filter: hue-rotate(-360deg);
+  }
+}
+@keyframes rainbow {
+  from {
+    filter: hue-rotate(0);
+  }
+  to {
+    filter: hue-rotate(-360deg);
+  }
+}
 @font-face {
   font-family: 'sao-home';
   src: url("/fonts/Mam.otf");
