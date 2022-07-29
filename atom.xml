@@ -3,11 +3,11 @@
   <title>唯一のBlog</title>
   <icon>https://cdn.jsdelivr.net/gh/sao-coding/sao-coding.github.io/img/avatar.jpg</icon>
   <subtitle>這雖然是遊戲，但可不是鬧著玩的</subtitle>
-  <link href="https://sao-coding.github.io/atom.xml" rel="self"/>
+  <link href="https://blog.sao-x.com/atom.xml" rel="self"/>
   
-  <link href="https://sao-coding.github.io/"/>
+  <link href="https://blog.sao-x.com/"/>
   <updated>2022-08-28T03:54:14.000Z</updated>
-  <id>https://sao-coding.github.io/</id>
+  <id>https://blog.sao-x.com/</id>
   
   <author>
     <name>ǼǾՖ唯一ی</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>d098: Stringstream運用練習(C++)</title>
-    <link href="https://sao-coding.github.io/post/oj/zerojudge/d098/"/>
-    <id>https://sao-coding.github.io/post/oj/zerojudge/d098/</id>
+    <link href="https://blog.sao-x.com/post/oj/zerojudge/d098/"/>
+    <id>https://blog.sao-x.com/post/oj/zerojudge/d098/</id>
     <published>2022-08-28T03:54:14.000Z</published>
     <updated>2022-08-28T03:54:14.000Z</updated>
     
@@ -28,21 +28,21 @@
     
     
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/categories/ZeroJudge/"/>
     
     
-    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    <category term="Python" scheme="https://blog.sao-x.com/tags/Python/"/>
     
-    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    <category term="解題答案" scheme="https://blog.sao-x.com/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/tags/ZeroJudge/"/>
     
   </entry>
   
   <entry>
     <title>d086: 態度之重要的證明</title>
-    <link href="https://sao-coding.github.io/post/oj/zerojudge/d086/"/>
-    <id>https://sao-coding.github.io/post/oj/zerojudge/d086/</id>
+    <link href="https://blog.sao-x.com/post/oj/zerojudge/d086/"/>
+    <id>https://blog.sao-x.com/post/oj/zerojudge/d086/</id>
     <published>2022-08-28T02:13:27.000Z</published>
     <updated>2022-08-28T02:13:27.000Z</updated>
     
@@ -51,21 +51,21 @@
     
     
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/categories/ZeroJudge/"/>
     
     
-    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    <category term="Python" scheme="https://blog.sao-x.com/tags/Python/"/>
     
-    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    <category term="解題答案" scheme="https://blog.sao-x.com/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/tags/ZeroJudge/"/>
     
   </entry>
   
   <entry>
     <title>宿舍-關於我們檔案</title>
-    <link href="https://sao-coding.github.io/post/takming-dormitory-about/"/>
-    <id>https://sao-coding.github.io/post/takming-dormitory-about/</id>
+    <link href="https://blog.sao-x.com/post/takming-dormitory-about/"/>
+    <id>https://blog.sao-x.com/post/takming-dormitory-about/</id>
     <published>2022-05-10T06:33:31.000Z</published>
     <updated>2022-05-13T16:25:31.000Z</updated>
     
@@ -74,15 +74,15 @@
     
     
     
-    <category term="宿舍活動" scheme="https://sao-coding.github.io/categories/%E5%AE%BF%E8%88%8D%E6%B4%BB%E5%8B%95/"/>
+    <category term="宿舍活動" scheme="https://blog.sao-x.com/categories/%E5%AE%BF%E8%88%8D%E6%B4%BB%E5%8B%95/"/>
     
     
   </entry>
   
   <entry>
     <title>練習題</title>
-    <link href="https://sao-coding.github.io/post/practice/week-01/"/>
-    <id>https://sao-coding.github.io/post/practice/week-01/</id>
+    <link href="https://blog.sao-x.com/post/practice/week-01/"/>
+    <id>https://blog.sao-x.com/post/practice/week-01/</id>
     <published>2022-04-21T04:30:00.000Z</published>
     <updated>2022-04-21T04:30:00.000Z</updated>
     
@@ -91,19 +91,19 @@
     
     
     
-    <category term="練習題" scheme="https://sao-coding.github.io/categories/%E7%B7%B4%E7%BF%92%E9%A1%8C/"/>
+    <category term="練習題" scheme="https://blog.sao-x.com/categories/%E7%B7%B4%E7%BF%92%E9%A1%8C/"/>
     
     
-    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    <category term="Python" scheme="https://blog.sao-x.com/tags/Python/"/>
     
-    <category term="C#" scheme="https://sao-coding.github.io/tags/C/"/>
+    <category term="C#" scheme="https://blog.sao-x.com/tags/C/"/>
     
   </entry>
   
   <entry>
     <title>b759: 我明明就有說過= =</title>
-    <link href="https://sao-coding.github.io/post/oj/zerojudge/b759/"/>
-    <id>https://sao-coding.github.io/post/oj/zerojudge/b759/</id>
+    <link href="https://blog.sao-x.com/post/oj/zerojudge/b759/"/>
+    <id>https://blog.sao-x.com/post/oj/zerojudge/b759/</id>
     <published>2022-04-06T14:52:31.000Z</published>
     <updated>2022-04-06T14:52:31.000Z</updated>
     
@@ -112,21 +112,21 @@
     
     
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/categories/ZeroJudge/"/>
     
     
-    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    <category term="Python" scheme="https://blog.sao-x.com/tags/Python/"/>
     
-    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    <category term="解題答案" scheme="https://blog.sao-x.com/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/tags/ZeroJudge/"/>
     
   </entry>
   
   <entry>
     <title>b758: 牛仔(ㄗˇ)很忙</title>
-    <link href="https://sao-coding.github.io/post/oj/zerojudge/b758/"/>
-    <id>https://sao-coding.github.io/post/oj/zerojudge/b758/</id>
+    <link href="https://blog.sao-x.com/post/oj/zerojudge/b758/"/>
+    <id>https://blog.sao-x.com/post/oj/zerojudge/b758/</id>
     <published>2022-04-01T13:12:36.000Z</published>
     <updated>2022-04-01T13:12:36.000Z</updated>
     
@@ -135,21 +135,21 @@
     
     
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/categories/ZeroJudge/"/>
     
     
-    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    <category term="Python" scheme="https://blog.sao-x.com/tags/Python/"/>
     
-    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    <category term="解題答案" scheme="https://blog.sao-x.com/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/tags/ZeroJudge/"/>
     
   </entry>
   
   <entry>
     <title>在 Word 插入程式碼區塊</title>
-    <link href="https://sao-coding.github.io/post/tool/word-mdeditor/"/>
-    <id>https://sao-coding.github.io/post/tool/word-mdeditor/</id>
+    <link href="https://blog.sao-x.com/post/tool/word-mdeditor/"/>
+    <id>https://blog.sao-x.com/post/tool/word-mdeditor/</id>
     <published>2022-03-28T19:30:00.000Z</published>
     <updated>2022-03-28T19:30:00.000Z</updated>
     
@@ -158,15 +158,15 @@
     
     
     
-    <category term="工具" scheme="https://sao-coding.github.io/categories/%E5%B7%A5%E5%85%B7/"/>
+    <category term="工具" scheme="https://blog.sao-x.com/categories/%E5%B7%A5%E5%85%B7/"/>
     
     
   </entry>
   
   <entry>
     <title>b572: 忘了東西的傑克</title>
-    <link href="https://sao-coding.github.io/post/oj/zerojudge/b572/"/>
-    <id>https://sao-coding.github.io/post/oj/zerojudge/b572/</id>
+    <link href="https://blog.sao-x.com/post/oj/zerojudge/b572/"/>
+    <id>https://blog.sao-x.com/post/oj/zerojudge/b572/</id>
     <published>2022-03-25T10:50:50.000Z</published>
     <updated>2022-03-25T10:50:50.000Z</updated>
     
@@ -175,21 +175,21 @@
     
     
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/categories/ZeroJudge/"/>
     
     
-    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    <category term="Python" scheme="https://blog.sao-x.com/tags/Python/"/>
     
-    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    <category term="解題答案" scheme="https://blog.sao-x.com/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/tags/ZeroJudge/"/>
     
   </entry>
   
   <entry>
     <title>b294: 經濟大恐荒</title>
-    <link href="https://sao-coding.github.io/post/oj/zerojudge/b294/"/>
-    <id>https://sao-coding.github.io/post/oj/zerojudge/b294/</id>
+    <link href="https://blog.sao-x.com/post/oj/zerojudge/b294/"/>
+    <id>https://blog.sao-x.com/post/oj/zerojudge/b294/</id>
     <published>2022-03-25T02:45:23.000Z</published>
     <updated>2022-03-25T02:45:23.000Z</updated>
     
@@ -198,21 +198,21 @@
     
     
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/categories/ZeroJudge/"/>
     
     
-    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    <category term="Python" scheme="https://blog.sao-x.com/tags/Python/"/>
     
-    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    <category term="解題答案" scheme="https://blog.sao-x.com/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/tags/ZeroJudge/"/>
     
   </entry>
   
   <entry>
     <title>b558: 求數列第 n 項</title>
-    <link href="https://sao-coding.github.io/post/oj/zerojudge/b558/"/>
-    <id>https://sao-coding.github.io/post/oj/zerojudge/b558/</id>
+    <link href="https://blog.sao-x.com/post/oj/zerojudge/b558/"/>
+    <id>https://blog.sao-x.com/post/oj/zerojudge/b558/</id>
     <published>2022-03-19T03:45:23.000Z</published>
     <updated>2022-03-19T03:45:23.000Z</updated>
     
@@ -221,21 +221,21 @@
     
     
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/categories/ZeroJudge/"/>
     
     
-    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    <category term="Python" scheme="https://blog.sao-x.com/tags/Python/"/>
     
-    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    <category term="解題答案" scheme="https://blog.sao-x.com/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/tags/ZeroJudge/"/>
     
   </entry>
   
   <entry>
     <title>Keychron K4v2 96% 無線機械式鍵盤開箱</title>
-    <link href="https://sao-coding.github.io/post/keyboard/keychron-k4v2-keyboard/"/>
-    <id>https://sao-coding.github.io/post/keyboard/keychron-k4v2-keyboard/</id>
+    <link href="https://blog.sao-x.com/post/keyboard/keychron-k4v2-keyboard/"/>
+    <id>https://blog.sao-x.com/post/keyboard/keychron-k4v2-keyboard/</id>
     <published>2022-03-15T13:30:00.000Z</published>
     <updated>2022-03-15T13:30:00.000Z</updated>
     
@@ -244,17 +244,17 @@
     
     
     
-    <category term="鍵盤" scheme="https://sao-coding.github.io/categories/%E9%8D%B5%E7%9B%A4/"/>
+    <category term="鍵盤" scheme="https://blog.sao-x.com/categories/%E9%8D%B5%E7%9B%A4/"/>
     
     
-    <category term="機械式鍵盤" scheme="https://sao-coding.github.io/tags/%E6%A9%9F%E6%A2%B0%E5%BC%8F%E9%8D%B5%E7%9B%A4/"/>
+    <category term="機械式鍵盤" scheme="https://blog.sao-x.com/tags/%E6%A9%9F%E6%A2%B0%E5%BC%8F%E9%8D%B5%E7%9B%A4/"/>
     
   </entry>
   
   <entry>
     <title>a915: 二维点排序</title>
-    <link href="https://sao-coding.github.io/post/oj/zerojudge/a915/"/>
-    <id>https://sao-coding.github.io/post/oj/zerojudge/a915/</id>
+    <link href="https://blog.sao-x.com/post/oj/zerojudge/a915/"/>
+    <id>https://blog.sao-x.com/post/oj/zerojudge/a915/</id>
     <published>2022-03-03T02:45:23.000Z</published>
     <updated>2022-03-03T02:45:23.000Z</updated>
     
@@ -263,21 +263,21 @@
     
     
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/categories/ZeroJudge/"/>
     
     
-    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    <category term="Python" scheme="https://blog.sao-x.com/tags/Python/"/>
     
-    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    <category term="解題答案" scheme="https://blog.sao-x.com/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/tags/ZeroJudge/"/>
     
   </entry>
   
   <entry>
     <title>a799: 正值國</title>
-    <link href="https://sao-coding.github.io/post/oj/zerojudge/a799/"/>
-    <id>https://sao-coding.github.io/post/oj/zerojudge/a799/</id>
+    <link href="https://blog.sao-x.com/post/oj/zerojudge/a799/"/>
+    <id>https://blog.sao-x.com/post/oj/zerojudge/a799/</id>
     <published>2022-03-02T00:15:53.000Z</published>
     <updated>2022-03-02T00:15:53.000Z</updated>
     
@@ -286,21 +286,21 @@
     
     
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/categories/ZeroJudge/"/>
     
     
-    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    <category term="Python" scheme="https://blog.sao-x.com/tags/Python/"/>
     
-    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    <category term="解題答案" scheme="https://blog.sao-x.com/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/tags/ZeroJudge/"/>
     
   </entry>
   
   <entry>
     <title>a738: 最大公约数</title>
-    <link href="https://sao-coding.github.io/post/oj/zerojudge/a738/"/>
-    <id>https://sao-coding.github.io/post/oj/zerojudge/a738/</id>
+    <link href="https://blog.sao-x.com/post/oj/zerojudge/a738/"/>
+    <id>https://blog.sao-x.com/post/oj/zerojudge/a738/</id>
     <published>2022-03-01T00:15:53.000Z</published>
     <updated>2022-03-01T00:15:53.000Z</updated>
     
@@ -309,21 +309,21 @@
     
     
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/categories/ZeroJudge/"/>
     
     
-    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    <category term="Python" scheme="https://blog.sao-x.com/tags/Python/"/>
     
-    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    <category term="解題答案" scheme="https://blog.sao-x.com/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/tags/ZeroJudge/"/>
     
   </entry>
   
   <entry>
     <title>a528: 大數排序</title>
-    <link href="https://sao-coding.github.io/post/oj/zerojudge/a528/"/>
-    <id>https://sao-coding.github.io/post/oj/zerojudge/a528/</id>
+    <link href="https://blog.sao-x.com/post/oj/zerojudge/a528/"/>
+    <id>https://blog.sao-x.com/post/oj/zerojudge/a528/</id>
     <published>2022-02-27T23:15:53.000Z</published>
     <updated>2022-02-27T23:15:53.000Z</updated>
     
@@ -332,21 +332,21 @@
     
     
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/categories/ZeroJudge/"/>
     
     
-    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    <category term="Python" scheme="https://blog.sao-x.com/tags/Python/"/>
     
-    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    <category term="解題答案" scheme="https://blog.sao-x.com/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/tags/ZeroJudge/"/>
     
   </entry>
   
   <entry>
     <title>a263: 日期差幾天</title>
-    <link href="https://sao-coding.github.io/post/oj/zerojudge/a263/"/>
-    <id>https://sao-coding.github.io/post/oj/zerojudge/a263/</id>
+    <link href="https://blog.sao-x.com/post/oj/zerojudge/a263/"/>
+    <id>https://blog.sao-x.com/post/oj/zerojudge/a263/</id>
     <published>2022-02-27T09:15:03.000Z</published>
     <updated>2022-02-27T09:15:03.000Z</updated>
     
@@ -355,21 +355,21 @@
     
     
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/categories/ZeroJudge/"/>
     
     
-    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    <category term="Python" scheme="https://blog.sao-x.com/tags/Python/"/>
     
-    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    <category term="解題答案" scheme="https://blog.sao-x.com/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/tags/ZeroJudge/"/>
     
   </entry>
   
   <entry>
     <title>a244: 新手訓練 ~ for + if</title>
-    <link href="https://sao-coding.github.io/post/oj/zerojudge/a244/"/>
-    <id>https://sao-coding.github.io/post/oj/zerojudge/a244/</id>
+    <link href="https://blog.sao-x.com/post/oj/zerojudge/a244/"/>
+    <id>https://blog.sao-x.com/post/oj/zerojudge/a244/</id>
     <published>2022-02-26T09:15:03.000Z</published>
     <updated>2022-02-26T09:15:03.000Z</updated>
     
@@ -378,21 +378,21 @@
     
     
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/categories/ZeroJudge/"/>
     
     
-    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    <category term="Python" scheme="https://blog.sao-x.com/tags/Python/"/>
     
-    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    <category term="解題答案" scheme="https://blog.sao-x.com/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/tags/ZeroJudge/"/>
     
   </entry>
   
   <entry>
     <title>a215: 明明愛數數</title>
-    <link href="https://sao-coding.github.io/post/oj/zerojudge/a215/"/>
-    <id>https://sao-coding.github.io/post/oj/zerojudge/a215/</id>
+    <link href="https://blog.sao-x.com/post/oj/zerojudge/a215/"/>
+    <id>https://blog.sao-x.com/post/oj/zerojudge/a215/</id>
     <published>2022-02-25T09:15:03.000Z</published>
     <updated>2022-02-25T09:15:03.000Z</updated>
     
@@ -401,21 +401,21 @@
     
     
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/categories/ZeroJudge/"/>
     
     
-    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    <category term="Python" scheme="https://blog.sao-x.com/tags/Python/"/>
     
-    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    <category term="解題答案" scheme="https://blog.sao-x.com/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/tags/ZeroJudge/"/>
     
   </entry>
   
   <entry>
     <title>a149: 乘乘樂</title>
-    <link href="https://sao-coding.github.io/post/oj/zerojudge/a149/"/>
-    <id>https://sao-coding.github.io/post/oj/zerojudge/a149/</id>
+    <link href="https://blog.sao-x.com/post/oj/zerojudge/a149/"/>
+    <id>https://blog.sao-x.com/post/oj/zerojudge/a149/</id>
     <published>2022-02-24T09:15:03.000Z</published>
     <updated>2022-02-24T09:15:03.000Z</updated>
     
@@ -424,21 +424,21 @@
     
     
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/categories/ZeroJudge/"/>
     
     
-    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    <category term="Python" scheme="https://blog.sao-x.com/tags/Python/"/>
     
-    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    <category term="解題答案" scheme="https://blog.sao-x.com/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/tags/ZeroJudge/"/>
     
   </entry>
   
   <entry>
     <title>a148: You Cannot Pass?!</title>
-    <link href="https://sao-coding.github.io/post/oj/zerojudge/a148/"/>
-    <id>https://sao-coding.github.io/post/oj/zerojudge/a148/</id>
+    <link href="https://blog.sao-x.com/post/oj/zerojudge/a148/"/>
+    <id>https://blog.sao-x.com/post/oj/zerojudge/a148/</id>
     <published>2022-02-23T10:15:03.000Z</published>
     <updated>2022-02-23T10:15:03.000Z</updated>
     
@@ -447,21 +447,21 @@
     
     
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/categories/ZeroJudge/"/>
     
     
-    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    <category term="Python" scheme="https://blog.sao-x.com/tags/Python/"/>
     
-    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    <category term="解題答案" scheme="https://blog.sao-x.com/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/tags/ZeroJudge/"/>
     
   </entry>
   
   <entry>
     <title>a147: Print it all</title>
-    <link href="https://sao-coding.github.io/post/oj/zerojudge/a147/"/>
-    <id>https://sao-coding.github.io/post/oj/zerojudge/a147/</id>
+    <link href="https://blog.sao-x.com/post/oj/zerojudge/a147/"/>
+    <id>https://blog.sao-x.com/post/oj/zerojudge/a147/</id>
     <published>2022-02-22T03:15:03.000Z</published>
     <updated>2022-02-22T03:15:03.000Z</updated>
     
@@ -470,21 +470,21 @@
     
     
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/categories/ZeroJudge/"/>
     
     
-    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    <category term="Python" scheme="https://blog.sao-x.com/tags/Python/"/>
     
-    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    <category term="解題答案" scheme="https://blog.sao-x.com/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/tags/ZeroJudge/"/>
     
   </entry>
   
   <entry>
     <title>a104: 排序</title>
-    <link href="https://sao-coding.github.io/post/oj/zerojudge/a104/"/>
-    <id>https://sao-coding.github.io/post/oj/zerojudge/a104/</id>
+    <link href="https://blog.sao-x.com/post/oj/zerojudge/a104/"/>
+    <id>https://blog.sao-x.com/post/oj/zerojudge/a104/</id>
     <published>2022-02-21T03:15:03.000Z</published>
     <updated>2022-02-21T03:15:03.000Z</updated>
     
@@ -493,21 +493,21 @@
     
     
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/categories/ZeroJudge/"/>
     
     
-    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    <category term="Python" scheme="https://blog.sao-x.com/tags/Python/"/>
     
-    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    <category term="解題答案" scheme="https://blog.sao-x.com/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/tags/ZeroJudge/"/>
     
   </entry>
   
   <entry>
     <title>a065: 提款卡密碼</title>
-    <link href="https://sao-coding.github.io/post/oj/zerojudge/a065/"/>
-    <id>https://sao-coding.github.io/post/oj/zerojudge/a065/</id>
+    <link href="https://blog.sao-x.com/post/oj/zerojudge/a065/"/>
+    <id>https://blog.sao-x.com/post/oj/zerojudge/a065/</id>
     <published>2022-02-20T03:15:03.000Z</published>
     <updated>2022-02-20T03:15:03.000Z</updated>
     
@@ -516,21 +516,21 @@
     
     
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/categories/ZeroJudge/"/>
     
     
-    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    <category term="Python" scheme="https://blog.sao-x.com/tags/Python/"/>
     
-    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    <category term="解題答案" scheme="https://blog.sao-x.com/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/tags/ZeroJudge/"/>
     
   </entry>
   
   <entry>
     <title>a059: 完全平方和</title>
-    <link href="https://sao-coding.github.io/post/oj/zerojudge/a059/"/>
-    <id>https://sao-coding.github.io/post/oj/zerojudge/a059/</id>
+    <link href="https://blog.sao-x.com/post/oj/zerojudge/a059/"/>
+    <id>https://blog.sao-x.com/post/oj/zerojudge/a059/</id>
     <published>2022-02-19T14:15:03.000Z</published>
     <updated>2022-02-19T14:15:03.000Z</updated>
     
@@ -539,21 +539,21 @@
     
     
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/categories/ZeroJudge/"/>
     
     
-    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    <category term="Python" scheme="https://blog.sao-x.com/tags/Python/"/>
     
-    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    <category term="解題答案" scheme="https://blog.sao-x.com/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/tags/ZeroJudge/"/>
     
   </entry>
   
   <entry>
     <title>a058: MOD3</title>
-    <link href="https://sao-coding.github.io/post/oj/zerojudge/a058/"/>
-    <id>https://sao-coding.github.io/post/oj/zerojudge/a058/</id>
+    <link href="https://blog.sao-x.com/post/oj/zerojudge/a058/"/>
+    <id>https://blog.sao-x.com/post/oj/zerojudge/a058/</id>
     <published>2022-02-18T00:15:03.000Z</published>
     <updated>2022-02-18T00:15:03.000Z</updated>
     
@@ -562,21 +562,21 @@
     
     
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/categories/ZeroJudge/"/>
     
     
-    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    <category term="Python" scheme="https://blog.sao-x.com/tags/Python/"/>
     
-    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    <category term="解題答案" scheme="https://blog.sao-x.com/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/tags/ZeroJudge/"/>
     
   </entry>
   
   <entry>
     <title>a053: Sagits 計分程式</title>
-    <link href="https://sao-coding.github.io/post/oj/zerojudge/a053/"/>
-    <id>https://sao-coding.github.io/post/oj/zerojudge/a053/</id>
+    <link href="https://blog.sao-x.com/post/oj/zerojudge/a053/"/>
+    <id>https://blog.sao-x.com/post/oj/zerojudge/a053/</id>
     <published>2022-02-17T07:15:03.000Z</published>
     <updated>2022-02-17T07:15:03.000Z</updated>
     
@@ -585,21 +585,21 @@
     
     
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/categories/ZeroJudge/"/>
     
     
-    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    <category term="Python" scheme="https://blog.sao-x.com/tags/Python/"/>
     
-    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    <category term="解題答案" scheme="https://blog.sao-x.com/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/tags/ZeroJudge/"/>
     
   </entry>
   
   <entry>
     <title>a038: 數字翻轉</title>
-    <link href="https://sao-coding.github.io/post/oj/zerojudge/a038/"/>
-    <id>https://sao-coding.github.io/post/oj/zerojudge/a038/</id>
+    <link href="https://blog.sao-x.com/post/oj/zerojudge/a038/"/>
+    <id>https://blog.sao-x.com/post/oj/zerojudge/a038/</id>
     <published>2022-02-16T10:15:03.000Z</published>
     <updated>2022-02-16T10:15:03.000Z</updated>
     
@@ -608,21 +608,21 @@
     
     
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/categories/ZeroJudge/"/>
     
     
-    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    <category term="Python" scheme="https://blog.sao-x.com/tags/Python/"/>
     
-    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    <category term="解題答案" scheme="https://blog.sao-x.com/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/tags/ZeroJudge/"/>
     
   </entry>
   
   <entry>
     <title>a034: 二進位制轉換</title>
-    <link href="https://sao-coding.github.io/post/oj/zerojudge/a034/"/>
-    <id>https://sao-coding.github.io/post/oj/zerojudge/a034/</id>
+    <link href="https://blog.sao-x.com/post/oj/zerojudge/a034/"/>
+    <id>https://blog.sao-x.com/post/oj/zerojudge/a034/</id>
     <published>2022-02-15T10:15:03.000Z</published>
     <updated>2022-02-15T10:15:03.000Z</updated>
     
@@ -631,21 +631,21 @@
     
     
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/categories/ZeroJudge/"/>
     
     
-    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    <category term="Python" scheme="https://blog.sao-x.com/tags/Python/"/>
     
-    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    <category term="解題答案" scheme="https://blog.sao-x.com/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/tags/ZeroJudge/"/>
     
   </entry>
   
   <entry>
     <title>a024: 最大公因數(GCD)</title>
-    <link href="https://sao-coding.github.io/post/oj/zerojudge/a024/"/>
-    <id>https://sao-coding.github.io/post/oj/zerojudge/a024/</id>
+    <link href="https://blog.sao-x.com/post/oj/zerojudge/a024/"/>
+    <id>https://blog.sao-x.com/post/oj/zerojudge/a024/</id>
     <published>2022-02-14T10:15:03.000Z</published>
     <updated>2022-02-14T10:15:03.000Z</updated>
     
@@ -654,21 +654,21 @@
     
     
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/categories/ZeroJudge/"/>
     
     
-    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    <category term="Python" scheme="https://blog.sao-x.com/tags/Python/"/>
     
-    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    <category term="解題答案" scheme="https://blog.sao-x.com/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/tags/ZeroJudge/"/>
     
   </entry>
   
   <entry>
     <title>a022: 迴文</title>
-    <link href="https://sao-coding.github.io/post/oj/zerojudge/a022/"/>
-    <id>https://sao-coding.github.io/post/oj/zerojudge/a022/</id>
+    <link href="https://blog.sao-x.com/post/oj/zerojudge/a022/"/>
+    <id>https://blog.sao-x.com/post/oj/zerojudge/a022/</id>
     <published>2022-02-13T10:15:03.000Z</published>
     <updated>2022-02-13T10:15:03.000Z</updated>
     
@@ -677,21 +677,21 @@
     
     
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/categories/ZeroJudge/"/>
     
     
-    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    <category term="Python" scheme="https://blog.sao-x.com/tags/Python/"/>
     
-    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    <category term="解題答案" scheme="https://blog.sao-x.com/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/tags/ZeroJudge/"/>
     
   </entry>
   
   <entry>
     <title>a021: 大數運算</title>
-    <link href="https://sao-coding.github.io/post/oj/zerojudge/a021/"/>
-    <id>https://sao-coding.github.io/post/oj/zerojudge/a021/</id>
+    <link href="https://blog.sao-x.com/post/oj/zerojudge/a021/"/>
+    <id>https://blog.sao-x.com/post/oj/zerojudge/a021/</id>
     <published>2022-02-12T10:15:03.000Z</published>
     <updated>2022-02-12T10:15:03.000Z</updated>
     
@@ -700,21 +700,21 @@
     
     
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/categories/ZeroJudge/"/>
     
     
-    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    <category term="Python" scheme="https://blog.sao-x.com/tags/Python/"/>
     
-    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    <category term="解題答案" scheme="https://blog.sao-x.com/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/tags/ZeroJudge/"/>
     
   </entry>
   
   <entry>
     <title>a020: 身分證檢驗</title>
-    <link href="https://sao-coding.github.io/post/oj/zerojudge/a020/"/>
-    <id>https://sao-coding.github.io/post/oj/zerojudge/a020/</id>
+    <link href="https://blog.sao-x.com/post/oj/zerojudge/a020/"/>
+    <id>https://blog.sao-x.com/post/oj/zerojudge/a020/</id>
     <published>2022-02-11T10:15:03.000Z</published>
     <updated>2022-02-11T10:15:03.000Z</updated>
     
@@ -723,21 +723,21 @@
     
     
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/categories/ZeroJudge/"/>
     
     
-    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    <category term="Python" scheme="https://blog.sao-x.com/tags/Python/"/>
     
-    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    <category term="解題答案" scheme="https://blog.sao-x.com/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/tags/ZeroJudge/"/>
     
   </entry>
   
   <entry>
     <title>a017: 五則運算</title>
-    <link href="https://sao-coding.github.io/post/oj/zerojudge/a017/"/>
-    <id>https://sao-coding.github.io/post/oj/zerojudge/a017/</id>
+    <link href="https://blog.sao-x.com/post/oj/zerojudge/a017/"/>
+    <id>https://blog.sao-x.com/post/oj/zerojudge/a017/</id>
     <published>2022-02-10T10:15:03.000Z</published>
     <updated>2022-02-10T10:15:03.000Z</updated>
     
@@ -746,21 +746,21 @@
     
     
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/categories/ZeroJudge/"/>
     
     
-    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    <category term="Python" scheme="https://blog.sao-x.com/tags/Python/"/>
     
-    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    <category term="解題答案" scheme="https://blog.sao-x.com/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/tags/ZeroJudge/"/>
     
   </entry>
   
   <entry>
     <title>a015: 矩陣的翻轉</title>
-    <link href="https://sao-coding.github.io/post/oj/zerojudge/a015/"/>
-    <id>https://sao-coding.github.io/post/oj/zerojudge/a015/</id>
+    <link href="https://blog.sao-x.com/post/oj/zerojudge/a015/"/>
+    <id>https://blog.sao-x.com/post/oj/zerojudge/a015/</id>
     <published>2022-02-09T10:15:03.000Z</published>
     <updated>2022-02-09T10:15:03.000Z</updated>
     
@@ -769,21 +769,21 @@
     
     
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/categories/ZeroJudge/"/>
     
     
-    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    <category term="Python" scheme="https://blog.sao-x.com/tags/Python/"/>
     
-    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    <category term="解題答案" scheme="https://blog.sao-x.com/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/tags/ZeroJudge/"/>
     
   </entry>
   
   <entry>
     <title>a010: 因數分解</title>
-    <link href="https://sao-coding.github.io/post/oj/zerojudge/a010/"/>
-    <id>https://sao-coding.github.io/post/oj/zerojudge/a010/</id>
+    <link href="https://blog.sao-x.com/post/oj/zerojudge/a010/"/>
+    <id>https://blog.sao-x.com/post/oj/zerojudge/a010/</id>
     <published>2022-02-08T10:15:03.000Z</published>
     <updated>2022-02-08T10:15:03.000Z</updated>
     
@@ -792,21 +792,21 @@
     
     
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/categories/ZeroJudge/"/>
     
     
-    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    <category term="Python" scheme="https://blog.sao-x.com/tags/Python/"/>
     
-    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    <category term="解題答案" scheme="https://blog.sao-x.com/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/tags/ZeroJudge/"/>
     
   </entry>
   
   <entry>
     <title>a009: 解碼器</title>
-    <link href="https://sao-coding.github.io/post/oj/zerojudge/a009/"/>
-    <id>https://sao-coding.github.io/post/oj/zerojudge/a009/</id>
+    <link href="https://blog.sao-x.com/post/oj/zerojudge/a009/"/>
+    <id>https://blog.sao-x.com/post/oj/zerojudge/a009/</id>
     <published>2022-02-07T10:15:03.000Z</published>
     <updated>2022-02-07T10:15:03.000Z</updated>
     
@@ -815,21 +815,21 @@
     
     
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/categories/ZeroJudge/"/>
     
     
-    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    <category term="Python" scheme="https://blog.sao-x.com/tags/Python/"/>
     
-    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    <category term="解題答案" scheme="https://blog.sao-x.com/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/tags/ZeroJudge/"/>
     
   </entry>
   
   <entry>
     <title>a006: 一元二次方程式</title>
-    <link href="https://sao-coding.github.io/post/oj/zerojudge/a006/"/>
-    <id>https://sao-coding.github.io/post/oj/zerojudge/a006/</id>
+    <link href="https://blog.sao-x.com/post/oj/zerojudge/a006/"/>
+    <id>https://blog.sao-x.com/post/oj/zerojudge/a006/</id>
     <published>2022-02-06T04:40:03.000Z</published>
     <updated>2022-02-06T04:40:03.000Z</updated>
     
@@ -838,21 +838,21 @@
     
     
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/categories/ZeroJudge/"/>
     
     
-    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    <category term="Python" scheme="https://blog.sao-x.com/tags/Python/"/>
     
-    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    <category term="解題答案" scheme="https://blog.sao-x.com/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/tags/ZeroJudge/"/>
     
   </entry>
   
   <entry>
     <title>a005: Eva 的回家作業</title>
-    <link href="https://sao-coding.github.io/post/oj/zerojudge/a005/"/>
-    <id>https://sao-coding.github.io/post/oj/zerojudge/a005/</id>
+    <link href="https://blog.sao-x.com/post/oj/zerojudge/a005/"/>
+    <id>https://blog.sao-x.com/post/oj/zerojudge/a005/</id>
     <published>2022-02-05T04:40:03.000Z</published>
     <updated>2022-02-05T04:40:03.000Z</updated>
     
@@ -861,21 +861,21 @@
     
     
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/categories/ZeroJudge/"/>
     
     
-    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    <category term="Python" scheme="https://blog.sao-x.com/tags/Python/"/>
     
-    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    <category term="解題答案" scheme="https://blog.sao-x.com/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/tags/ZeroJudge/"/>
     
   </entry>
   
   <entry>
     <title>a004. 文文的求婚</title>
-    <link href="https://sao-coding.github.io/post/oj/zerojudge/a004/"/>
-    <id>https://sao-coding.github.io/post/oj/zerojudge/a004/</id>
+    <link href="https://blog.sao-x.com/post/oj/zerojudge/a004/"/>
+    <id>https://blog.sao-x.com/post/oj/zerojudge/a004/</id>
     <published>2022-02-03T21:40:00.000Z</published>
     <updated>2022-02-03T21:40:00.000Z</updated>
     
@@ -884,21 +884,21 @@
     
     
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/categories/ZeroJudge/"/>
     
     
-    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    <category term="Python" scheme="https://blog.sao-x.com/tags/Python/"/>
     
-    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    <category term="解題答案" scheme="https://blog.sao-x.com/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/tags/ZeroJudge/"/>
     
   </entry>
   
   <entry>
     <title>a003: 兩光法師占卜術</title>
-    <link href="https://sao-coding.github.io/post/oj/zerojudge/a003/"/>
-    <id>https://sao-coding.github.io/post/oj/zerojudge/a003/</id>
+    <link href="https://blog.sao-x.com/post/oj/zerojudge/a003/"/>
+    <id>https://blog.sao-x.com/post/oj/zerojudge/a003/</id>
     <published>2022-02-02T21:38:00.000Z</published>
     <updated>2022-02-02T21:38:00.000Z</updated>
     
@@ -907,21 +907,21 @@
     
     
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/categories/ZeroJudge/"/>
     
     
-    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    <category term="Python" scheme="https://blog.sao-x.com/tags/Python/"/>
     
-    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    <category term="解題答案" scheme="https://blog.sao-x.com/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/tags/ZeroJudge/"/>
     
   </entry>
   
   <entry>
     <title>a002: 簡易加法</title>
-    <link href="https://sao-coding.github.io/post/oj/zerojudge/a002/"/>
-    <id>https://sao-coding.github.io/post/oj/zerojudge/a002/</id>
+    <link href="https://blog.sao-x.com/post/oj/zerojudge/a002/"/>
+    <id>https://blog.sao-x.com/post/oj/zerojudge/a002/</id>
     <published>2022-02-01T21:33:00.000Z</published>
     <updated>2022-02-01T21:33:00.000Z</updated>
     
@@ -930,21 +930,21 @@
     
     
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/categories/ZeroJudge/"/>
     
     
-    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    <category term="Python" scheme="https://blog.sao-x.com/tags/Python/"/>
     
-    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    <category term="解題答案" scheme="https://blog.sao-x.com/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/tags/ZeroJudge/"/>
     
   </entry>
   
   <entry>
     <title>a001: 哈囉</title>
-    <link href="https://sao-coding.github.io/post/oj/zerojudge/a001/"/>
-    <id>https://sao-coding.github.io/post/oj/zerojudge/a001/</id>
+    <link href="https://blog.sao-x.com/post/oj/zerojudge/a001/"/>
+    <id>https://blog.sao-x.com/post/oj/zerojudge/a001/</id>
     <published>2022-02-01T04:30:00.000Z</published>
     <updated>2022-04-08T04:00:00.000Z</updated>
     
@@ -953,21 +953,21 @@
     
     
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/categories/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/categories/ZeroJudge/"/>
     
     
-    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    <category term="Python" scheme="https://blog.sao-x.com/tags/Python/"/>
     
-    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    <category term="解題答案" scheme="https://blog.sao-x.com/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
     
-    <category term="ZeroJudge" scheme="https://sao-coding.github.io/tags/ZeroJudge/"/>
+    <category term="ZeroJudge" scheme="https://blog.sao-x.com/tags/ZeroJudge/"/>
     
   </entry>
   
   <entry>
     <title>1. Two Sum</title>
-    <link href="https://sao-coding.github.io/post/oj/leetcode/1.%20Two%20Sum/"/>
-    <id>https://sao-coding.github.io/post/oj/leetcode/1.%20Two%20Sum/</id>
+    <link href="https://blog.sao-x.com/post/oj/leetcode/1.%20Two%20Sum/"/>
+    <id>https://blog.sao-x.com/post/oj/leetcode/1.%20Two%20Sum/</id>
     <published>2022-01-30T17:36:00.000Z</published>
     <updated>2022-01-30T17:36:00.000Z</updated>
     
@@ -976,42 +976,21 @@
     
     
     
-    <category term="LeetCode" scheme="https://sao-coding.github.io/categories/LeetCode/"/>
+    <category term="LeetCode" scheme="https://blog.sao-x.com/categories/LeetCode/"/>
     
     
-    <category term="Python" scheme="https://sao-coding.github.io/tags/Python/"/>
+    <category term="Python" scheme="https://blog.sao-x.com/tags/Python/"/>
     
-    <category term="解題答案" scheme="https://sao-coding.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
+    <category term="解題答案" scheme="https://blog.sao-x.com/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/"/>
     
-    <category term="LeetCode" scheme="https://sao-coding.github.io/tags/LeetCode/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>文章封面照片位置</title>
-    <link href="https://sao-coding.github.io/post/cover/"/>
-    <id>https://sao-coding.github.io/post/cover/</id>
-    <published>2022-01-30T13:33:31.000Z</published>
-    <updated>2022-01-30T13:33:31.000Z</updated>
-    
-    
-    <summary type="html">修改文章封面照片位置</summary>
-    
-    
-    
-    <category term="HEXO" scheme="https://sao-coding.github.io/categories/HEXO/"/>
-    
-    
-    <category term="HEXO" scheme="https://sao-coding.github.io/tags/HEXO/"/>
-    
-    <category term="🦋 Butterfly" scheme="https://sao-coding.github.io/tags/%F0%9F%A6%8B-Butterfly/"/>
+    <category term="LeetCode" scheme="https://blog.sao-x.com/tags/LeetCode/"/>
     
   </entry>
   
   <entry>
     <title>Pixiv 日榜小工具</title>
-    <link href="https://sao-coding.github.io/post/pixiv/"/>
-    <id>https://sao-coding.github.io/post/pixiv/</id>
+    <link href="https://blog.sao-x.com/post/pixiv/"/>
+    <id>https://blog.sao-x.com/post/pixiv/</id>
     <published>2022-01-30T13:33:31.000Z</published>
     <updated>2022-01-30T13:33:31.000Z</updated>
     
@@ -1020,12 +999,33 @@
     
     
     
-    <category term="HEXO" scheme="https://sao-coding.github.io/categories/HEXO/"/>
+    <category term="HEXO" scheme="https://blog.sao-x.com/categories/HEXO/"/>
     
     
-    <category term="HEXO" scheme="https://sao-coding.github.io/tags/HEXO/"/>
+    <category term="HEXO" scheme="https://blog.sao-x.com/tags/HEXO/"/>
     
-    <category term="🦋 Butterfly" scheme="https://sao-coding.github.io/tags/%F0%9F%A6%8B-Butterfly/"/>
+    <category term="🦋 Butterfly" scheme="https://blog.sao-x.com/tags/%F0%9F%A6%8B-Butterfly/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>文章封面照片位置</title>
+    <link href="https://blog.sao-x.com/post/cover/"/>
+    <id>https://blog.sao-x.com/post/cover/</id>
+    <published>2022-01-30T13:33:31.000Z</published>
+    <updated>2022-01-30T13:33:31.000Z</updated>
+    
+    
+    <summary type="html">修改文章封面照片位置</summary>
+    
+    
+    
+    <category term="HEXO" scheme="https://blog.sao-x.com/categories/HEXO/"/>
+    
+    
+    <category term="HEXO" scheme="https://blog.sao-x.com/tags/HEXO/"/>
+    
+    <category term="🦋 Butterfly" scheme="https://blog.sao-x.com/tags/%F0%9F%A6%8B-Butterfly/"/>
     
   </entry>
   
