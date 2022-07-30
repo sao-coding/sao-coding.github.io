@@ -1,1 +1,13 @@
-"use strict";let duration=.8,delay=.3,revealText=document.querySelector(".reveal"),letters=revealText.textContent.split("");revealText.textContent="";let middle=letters.filter((e=>" "!==e)).length/2;letters.forEach(((e,t)=>{let l=document.createElement("span");l.textContent=e,l.style.animationDelay=`${delay+.1*Math.abs(t-middle)}s`,revealText.append(l)}));
+"use strict";
+let duration = 0.8;
+let delay = 0.3;
+let revealText = document.querySelector(".reveal");
+let letters = revealText.textContent.split("");
+revealText.textContent = "";
+let middle = letters.filter(e => e !== " ").length / 2;
+letters.forEach((letter, i) => {
+    let span = document.createElement("span");
+    span.textContent = letter;
+    span.style.animationDelay = `${delay + Math.abs(i - middle) * 0.1}s`;
+    revealText.append(span);
+});
