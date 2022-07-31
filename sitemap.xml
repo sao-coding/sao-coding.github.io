@@ -20,42 +20,6 @@
   </url>
   
   <url>
-    <loc>https://blog.sao-x.com/pwa/manifest.json</loc>
-    
-    <lastmod>2022-07-31</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.sao-x.com/tags/index.html</loc>
-    
-    <lastmod>2022-07-31</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.sao-x.com/timeline/index.html</loc>
-    
-    <lastmod>2022-07-31</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.sao-x.com/Privacy-Policy/index.html</loc>
-    
-    <lastmod>2022-07-31</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.sao-x.com/ads/index.html</loc>
     
     <lastmod>2022-07-31</lastmod>
@@ -93,6 +57,42 @@
   
   <url>
     <loc>https://blog.sao-x.com/link/index.html</loc>
+    
+    <lastmod>2022-07-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sao-x.com/pwa/manifest.json</loc>
+    
+    <lastmod>2022-07-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sao-x.com/tags/index.html</loc>
+    
+    <lastmod>2022-07-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sao-x.com/timeline/index.html</loc>
+    
+    <lastmod>2022-07-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sao-x.com/Privacy-Policy/index.html</loc>
     
     <lastmod>2022-07-31</lastmod>
     
