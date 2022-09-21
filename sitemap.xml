@@ -2,33 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.sao-x.com/pwa/manifest.json</loc>
-    
-    <lastmod>2022-09-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.sao-x.com/tags/index.html</loc>
-    
-    <lastmod>2022-09-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.sao-x.com/timeline/index.html</loc>
-    
-    <lastmod>2022-09-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.sao-x.com/backstage/index.html</loc>
     
     <lastmod>2022-09-21</lastmod>
@@ -57,6 +30,33 @@
   
   <url>
     <loc>https://blog.sao-x.com/link/index.html</loc>
+    
+    <lastmod>2022-09-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sao-x.com/pwa/manifest.json</loc>
+    
+    <lastmod>2022-09-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sao-x.com/tags/index.html</loc>
+    
+    <lastmod>2022-09-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sao-x.com/timeline/index.html</loc>
     
     <lastmod>2022-09-21</lastmod>
     
@@ -546,14 +546,14 @@
   </url>
   
   <url>
-    <loc>https://blog.sao-x.com/tags/LeetCode/</loc>
+    <loc>https://blog.sao-x.com/tags/ZeroJudge/</loc>
     <lastmod>2022-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.sao-x.com/tags/ZeroJudge/</loc>
+    <loc>https://blog.sao-x.com/tags/LeetCode/</loc>
     <lastmod>2022-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -604,14 +604,14 @@
   </url>
   
   <url>
-    <loc>https://blog.sao-x.com/categories/LeetCode/</loc>
+    <loc>https://blog.sao-x.com/categories/ZeroJudge/</loc>
     <lastmod>2022-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.sao-x.com/categories/ZeroJudge/</loc>
+    <loc>https://blog.sao-x.com/categories/LeetCode/</loc>
     <lastmod>2022-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
