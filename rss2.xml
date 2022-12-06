@@ -15,8 +15,29 @@
     <atom:link href="https://blog.sao-x.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>唯一のBlog</description>
-    <pubDate>Sun, 25 Sep 2022 05:45:37 GMT</pubDate>
+    <pubDate>Tue, 06 Dec 2022 02:04:46 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Arduino 備忘錄</title>
+      <link>https://blog.sao-x.com/post/arduino/Notes/</link>
+      <guid>https://blog.sao-x.com/post/arduino/Notes/</guid>
+      <pubDate>Tue, 06 Dec 2022 02:04:46 GMT</pubDate>
+      
+      <description>Arduino 的一些語法~</description>
+      
+      
+      
+      
+      <category domain="https://blog.sao-x.com/categories/Arduino/">Arduino</category>
+      
+      
+      <category domain="https://blog.sao-x.com/tags/Arduino/">Arduino</category>
+      
+      
+      <comments>https://blog.sao-x.com/post/arduino/Notes/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>文章封面照片位置</title>

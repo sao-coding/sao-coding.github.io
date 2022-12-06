@@ -6,7 +6,7 @@
   <link href="https://blog.sao-x.com/atom.xml" rel="self"/>
   
   <link href="https://blog.sao-x.com/"/>
-  <updated>2022-09-25T05:45:37.000Z</updated>
+  <updated>2022-12-06T02:04:46.000Z</updated>
   <id>https://blog.sao-x.com/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Arduino 備忘錄</title>
+    <link href="https://blog.sao-x.com/post/arduino/Notes/"/>
+    <id>https://blog.sao-x.com/post/arduino/Notes/</id>
+    <published>2022-12-06T02:04:46.000Z</published>
+    <updated>2022-12-06T02:04:46.000Z</updated>
+    
+    
+    <summary type="html">Arduino 的一些語法~</summary>
+    
+    
+    
+    <category term="Arduino" scheme="https://blog.sao-x.com/categories/Arduino/"/>
+    
+    
+    <category term="Arduino" scheme="https://blog.sao-x.com/tags/Arduino/"/>
+    
+  </entry>
   
   <entry>
     <title>文章封面照片位置</title>
