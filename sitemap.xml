@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.sao-x.com/pwa/manifest.json</loc>
+    
+    <lastmod>2022-12-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sao-x.com/tags/index.html</loc>
+    
+    <lastmod>2022-12-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sao-x.com/timeline/index.html</loc>
+    
+    <lastmod>2022-12-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.sao-x.com/Privacy-Policy/index.html</loc>
     
     <lastmod>2022-12-06</lastmod>
@@ -39,33 +66,6 @@
   
   <url>
     <loc>https://blog.sao-x.com/link/index.html</loc>
-    
-    <lastmod>2022-12-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.sao-x.com/pwa/manifest.json</loc>
-    
-    <lastmod>2022-12-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.sao-x.com/tags/index.html</loc>
-    
-    <lastmod>2022-12-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.sao-x.com/timeline/index.html</loc>
     
     <lastmod>2022-12-06</lastmod>
     
