@@ -2,24 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.sao-x.com/link/index.html</loc>
-    
-    <lastmod>2023-02-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.sao-x.com/pwa/manifest.json</loc>
-    
-    <lastmod>2023-02-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.sao-x.com/tags/index.html</loc>
     
     <lastmod>2023-02-20</lastmod>
@@ -66,6 +48,24 @@
   
   <url>
     <loc>https://blog.sao-x.com/fcircle/index.html</loc>
+    
+    <lastmod>2023-02-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sao-x.com/link/index.html</loc>
+    
+    <lastmod>2023-02-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sao-x.com/pwa/manifest.json</loc>
     
     <lastmod>2023-02-20</lastmod>
     
@@ -555,6 +555,13 @@
   </url>
   
   <url>
+    <loc>https://blog.sao-x.com/tags/C/</loc>
+    <lastmod>2023-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.sao-x.com/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/</loc>
     <lastmod>2023-02-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -570,13 +577,6 @@
   
   <url>
     <loc>https://blog.sao-x.com/tags/ZeroJudge/</loc>
-    <lastmod>2023-02-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.sao-x.com/tags/C/</loc>
     <lastmod>2023-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -620,6 +620,13 @@
   </url>
   
   <url>
+    <loc>https://blog.sao-x.com/categories/%E7%B7%B4%E7%BF%92%E9%A1%8C/</loc>
+    <lastmod>2023-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.sao-x.com/categories/%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2023-02-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -635,13 +642,6 @@
   
   <url>
     <loc>https://blog.sao-x.com/categories/ZeroJudge/</loc>
-    <lastmod>2023-02-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.sao-x.com/categories/%E7%B7%B4%E7%BF%92%E9%A1%8C/</loc>
     <lastmod>2023-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
